@@ -12,5 +12,4 @@ Usage:
 - Flash the firmware to your Lily58 Pro keyboard.
 
 For more information and instructions, refer to the official documentation of the Lily58 Pro keyboard firmware.
-
 """
